@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Practice with Git Bash!");
         System.out.println("Some changes");
+        System.out.println("Third commit");
     }
 }
